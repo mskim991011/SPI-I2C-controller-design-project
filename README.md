@@ -16,7 +16,7 @@
 * **Robust RTL Design**: Clock 분주기, FSM(Finite State Machine), 시프트 레지스터 등을 활용한 안정적인 프로토콜 제어 로직을 구현했습니다.
 
 ---
-
+ 
 ## 📂 Repository Structure
 
 프로젝트는 **SPI**와 **I2C** 두 개의 메인 폴더로 구성되어 있으며, 각 폴더 내부에 설계 및 검증 자산이 독립적으로 관리됩니다.
